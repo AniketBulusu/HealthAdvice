@@ -1,0 +1,30 @@
+Name: Bruh
+Gender: M
+Age: 26
+Weight(lbs or kgs depending on user input): 175.0
+Height: 6 feet and 2 inches
+Physical Activity: 5 hours
+Activity Level: ACTIVE
+Sleep Duration: 8 hours
+Sleep Quality: 8
+------------------------------
+Name: three
+Gender: M
+Age: 27
+Weight(lbs or kgs depending on user input): 170.0
+Height: 6 feet and 2 inches
+Physical Activity: 4 hours
+Activity Level: ACTIVE
+Sleep Duration: 7 hours
+Sleep Quality: 7
+------------------------------
+Name: M
+Gender: active
+Age: 22
+Weight(lbs or kgs depending on user input): 75.0
+Height: 6 feet and 1 inches
+Physical Activity: 3 hours
+Activity Level: active
+Sleep Duration: 8 hours
+Sleep Quality: 7
+------------------------------

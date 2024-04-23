@@ -1,0 +1,4 @@
+aaa:Name: m|Gender: active|Age: 67|Weight(lbs or kgs depending on user input): 55.000000|Height: 6 feet and 2 inches|Physical Activity: 5 hours|Activity Level: active|Sleep Duration: 5 hours|Sleep Quality: 5
+Aniket:Name: m|Gender: Active|Age: 65|Weight(lbs or kgs depending on user input): 55.000000|Height: 6 feet and 2 inches|Physical Activity: 6 hours|Activity Level: Active|Sleep Duration: 6 hours|Sleep Quality: 6
+Nick:Name: M|Gender: active|Age: 22|Weight(lbs or kgs depending on user input): 75.000000|Height: 6 feet and 1 inches|Physical Activity: 3 hours|Activity Level: active|Sleep Duration: 8 hours|Sleep Quality: 7
+aniket:Name: M|Gender: active|Age: 75|Weight(lbs or kgs depending on user input): 55.000000|Height: 6 feet and 2 inches|Physical Activity: 6 hours|Activity Level: active|Sleep Duration: 6 hours|Sleep Quality: 5

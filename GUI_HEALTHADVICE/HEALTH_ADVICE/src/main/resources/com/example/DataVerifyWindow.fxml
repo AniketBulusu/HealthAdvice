@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.control.PasswordField?>
+<?import javafx.fxml.FXML?>
+<?import javafx.scene.layout.GridPane?>
+<?import javafx.scene.layout.HBox?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns="http://javafx.com/javafx" xmlns:fx="http://javafx.com/fxml" prefHeight="550.0" prefWidth="600.0" fx:controller="com.example.DataVerifyController">
+    <VBox alignment="CENTER" prefHeight="550.0" prefWidth="600.0" spacing="8" style="-fx-font-size: 20px;">
+        <Label fx:id="lblSummary" text="Here is a general summary of your health" style="-fx-font-weight: bold;" />
+        <VBox alignment="CENTER_LEFT" prefHeight="550.0" prefWidth="600.0" spacing="8" style="-fx-font-size: 18px;">
+            <Label fx:id="lblName" text="Your name is: " />
+            <Label fx:id="lblSex" text="Your gender is: " />
+            <Label fx:id="lblAge" text="Your age is: " />
+            <Label fx:id="lblWeight" text="Your weight is: " />
+            <Label fx:id="lblHeight" text="Your height is: " />
+            <Label fx:id="lblExercise" text="The amount of physical activity you get is/are " />
+            <Label fx:id="lblActivityLevel" text="Your activity level is: " />
+            <Label fx:id="lblSleep" text="The amount of sleep you get is: " />
+            <Label fx:id="lblQuality" text="The quality of sleep you get is: " />
+        </VBox>
+        <Button fx:id="btnImproveHealth" text="Continue to Health Advice" onAction="#switchToAdviceMenu"/>
+        <Button fx:id="btnExit" text="Exit App" onAction="#exitApp"/>
+    </VBox>
+</AnchorPane>
